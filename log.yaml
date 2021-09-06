@@ -1,0 +1,12 @@
+# Use this file to control what Logcat outputs are shown in test results.
+
+# Whether logging (which can be somewhat slow) is enabled at all:
+enabled: true
+
+# Whether each kind of log message will appear (only matters if logging is enabled):
+levels:
+  v: false # Verbose
+  d: false # Debug
+  i: true # Info
+  w: true # Warning
+  e: true # Error

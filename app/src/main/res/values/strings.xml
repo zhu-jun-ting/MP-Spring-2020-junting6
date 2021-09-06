@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Campus Snake 125</string>
+    <string name="service_name">Campus Snake 125 Location Observer</string>
+    <string name="log_in">Log In</string>
+    <string name="login_loading">Sending you to log in…</string>
+    <string name="login_required">You must log in before you can play Campus Snake 125.</string>
+    <string name="connection_failed">Could not connect to server.</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="invitations">Invitations</string>
+    <string name="ongoing_games">Ongoing Games</string>
+    <string name="historical_games">Historical Games</string>
+    <string name="create_game">Create Game</string>
+    <string name="players">Players</string>
+    <string name="game_mode">Game mode</string>
+    <string name="email">Email</string>
+    <string name="example_email">someone@example.com</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="target_mode">Target (specific locations)</string>
+    <string name="area_mode">Area (grid)</string>
+    <string name="targets">Targets</string>
+    <string name="targets_instructions">Long-press to add a target; click marker to remove.</string>
+    <string name="load_preset">Load Preset</string>
+    <string name="proximity_threshold">Proximity threshold (meters)</string>
+    <string name="area">Area</string>
+    <string name="area_instructions">Pan and zoom the map to set the area.</string>
+    <string name="cell_size">Cell length (meters)</string>
+    <string name="finish">Finish</string>
+    <string name="create_game_instructions">After adding all players and setting up the game, press Create to send invitations and enter the game.</string>
+    <string name="create">Create</string>
+    <string name="load">Load</string>
+    <string name="cancel">Cancel</string>
+    <string name="game_manager">Created by %s</string>
+    <string name="game_role">%1$s, %2$s mode</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="enter">Enter</string>
+    <string name="leave">Leave</string>
+    <string name="leave_confirmation">Are you sure you want to leave this game? You will not be able to rejoin.</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="end">End Game</string>
+    <string name="unknown_ws_message">Unknown websocket message type: %s</string>
+    <string name="end_game_confirmation">Are you sure you want to end this game? This cannot be undone.</string>
+    <string name="paused">Paused</string>
+    <string name="running">Running</string>
+    <string name="connecting">Connecting…</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="game_over_message">The game is over: %s wins!</string>
+    <string name="game_over_no_points_message">The game is over. No points were scored.</string>
+    <string name="no_scores">No scores yet</string>
+    <string name="random_walk_detected">Random-walk (GPS problem?) detected: %s</string>
+    <string name="notification_text">Tracking location because you\'re in a game</string>
+    <string-array name="team_choices">
+        <item>Observer</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
