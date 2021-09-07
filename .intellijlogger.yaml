@@ -1,4 +1,0 @@
-destination: https://cs125-cloud.cs.illinois.edu/intellijlogger/
-name: "Spring2020.MP"
-emailLocation: email.txt
-buttonAction: "Grade.*"
